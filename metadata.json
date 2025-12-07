@@ -1,0 +1,5 @@
+{
+  "name": "Piutang Flow",
+  "description": "Aplikasi audit piutang digital untuk otomatisasi konfirmasi, analisis aging, dan pelaporan real-time.",
+  "requestFramePermissions": []
+}
